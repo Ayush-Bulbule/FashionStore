@@ -23,7 +23,7 @@ function homeController() {
             return res.status(404).send('Not Found')
         },
         error(req, res) {
-            res.status(404).send("404error")
+            return res.status(404).send("404error")
 
         },
         async search(req, res) {
