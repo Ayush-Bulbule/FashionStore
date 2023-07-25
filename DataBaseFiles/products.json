@@ -1,0 +1,469 @@
+[{
+  "_id": {
+    "$oid": "60d6b1a8eebf1a00a48c4202"
+  },
+  "name": "Under Armour Men's Tech 2.0  T-Shirt",
+  "image": "uimage-1626838111040.jpg",
+  "description": "Under Armour Men's Tech 2.0 Short-Sleeve T-Shirt Cotton-Mix",
+  "category": "mens",
+  "price": 34,
+  "rating": "5",
+  "__v": 0,
+  "stock": 30,
+  "initialItems": 48
+},{
+  "_id": {
+    "$oid": "60d6b32deebf1a00a48c4209"
+  },
+  "name": "Lavemi Men's  Dress Belt ",
+  "image": "uimage-1626837074498.jpg",
+  "description": "Lavemi Men's Real Leather Ratchet Dress Belt with Automatic Buckle,Elegant Gift Box",
+  "category": "living",
+  "price": 23,
+  "rating": "4.3",
+  "__v": 0,
+  "stock": 45,
+  "initialItems": 54
+},{
+  "_id": {
+    "$oid": "60d6b356eebf1a00a48c420a"
+  },
+  "name": "Buffway Slim Minimalist Front Pocket",
+  "image": "uimage-1626837141687.jpg",
+  "description": "Buffway Slim Minimalist Front Pocket RFID Blocking Leather Wallets for Men Women 4.6 out of 5 stars 55,433",
+  "category": "living",
+  "price": 18,
+  "rating": "4.6",
+  "__v": 0,
+  "stock": 46,
+  "initialItems": 53
+},{
+  "_id": {
+    "$oid": "60d6b38ceebf1a00a48c420b"
+  },
+  "name": "MERRY'S Sun Glasses For Men/Women S8286",
+  "image": "uimage-1626837209881.jpg",
+  "description": "MERRY'S Unisex Polarized Aluminum Sunglasses Vintage Sun Glasses For Men/Women S8286",
+  "category": "living",
+  "price": 26,
+  "rating": "4.7",
+  "__v": 0,
+  "stock": 59,
+  "initialItems": 70
+},{
+  "_id": {
+    "$oid": "60d6b43eeebf1a00a48c420d"
+  },
+  "name": "Brooks Ghost 13",
+  "image": "uimage-1626837268233.jpg",
+  "description": "Brooks Ghost 13 Branded New ",
+  "category": "living",
+  "price": 123,
+  "rating": "4.7",
+  "__v": 0,
+  "stock": 67,
+  "initialItems": 80
+},{
+  "_id": {
+    "$oid": "60d6b470eebf1a00a48c420e"
+  },
+  "name": "Hanes Mens Moccasin",
+  "image": "uimage-1626836990913.jpg",
+  "description": "Hanes Mens Moccasin Slipper with Memory Foam Indoor/Outdoor Sole",
+  "category": "living",
+  "price": 25,
+  "rating": "4.6",
+  "__v": 0,
+  "stock": 45,
+  "initialItems": 60
+},{
+  "_id": {
+    "$oid": "60d6b4b2eebf1a00a48c420f"
+  },
+  "name": "Sperry Women's Crest",
+  "image": "uimage-1626837328054.jpg",
+  "description": "Sperry Women's Crest Vibe Sneaker 4.7 out of 5 stars 3,718 $46.95 $60.00 Ships to India Skechers Women's Go Walk Joy Walking Shoe",
+  "category": "sports",
+  "price": 46,
+  "rating": "4.7",
+  "__v": 0,
+  "stock": 75,
+  "initialItems": 95
+},{
+  "_id": {
+    "$oid": "60d6b4e0eebf1a00a48c4210"
+  },
+  "name": "ASICS Women's Gel-Venture 7 Running living",
+  "image": "uimage-1626837426712.jpg",
+  "description": "ASICS Women's Gel-Venture 7 Running living By ASICS",
+  "category": "sports",
+  "price": 58,
+  "rating": "4.8",
+  "__v": 0,
+  "stock": 70,
+  "initialItems": 80
+},{
+  "_id": {
+    "$oid": "60d6b529eebf1a00a48c4211"
+  },
+  "name": "Skagen Women's Stainless Steel Watch",
+  "image": "uimage-1626837478394.jpg",
+  "description": "Skagen Women's RIIS Quartz Analog Stainless Steel Watch",
+  "category": "watches",
+  "price": 109,
+  "rating": "4.5",
+  "__v": 0,
+  "stock": 49,
+  "initialItems": 67
+},{
+  "_id": {
+    "$oid": "60d6b55ceebf1a00a48c4212"
+  },
+  "name": "Anne Klein Women's AK/2246CRRD Gold",
+  "image": "uimage-1626838167964.jpg",
+  "description": "Anne Klein Women's AK/2246CRRD Gold-Tone and Red Leather Strap Watch",
+  "category": "watches",
+  "price": 123,
+  "rating": "4.5",
+  "__v": 0,
+  "stock": 34,
+  "initialItems": 55
+},{
+  "_id": {
+    "$oid": "60d6b584eebf1a00a48c4213"
+  },
+  "name": "Anne Klein Dress Watch",
+  "image": "uimage-1626838182455.jpg",
+  "description": "Anne Klein Dress Watch (Model: AK/1018)",
+  "category": "watches",
+  "price": 45,
+  "rating": "4.7",
+  "__v": 0,
+  "stock": 45,
+  "initialItems": 50
+},{
+  "_id": {
+    "$oid": "60d6b5bdeebf1a00a48c4214"
+  },
+  "name": "Fossil Men's Grant",
+  "image": "uimage-1626837640784.jpg",
+  "description": "Fossil Men's Grant Stainless Steel Quartz Chronograph Watch",
+  "category": "watches",
+  "price": 34,
+  "rating": "4.5",
+  "__v": 0,
+  "stock": 52,
+  "initialItems": 67
+},{
+  "_id": {
+    "$oid": "60d6b66feebf1a00a48c4217"
+  },
+  "name": "Under Armour Men's Tech Golf Polo",
+  "image": "uimage-1626837592106.jpg",
+  "description": "Under Armour Men's Tech Golf Polo",
+  "category": "mens",
+  "price": 34,
+  "rating": "4.6",
+  "__v": 0,
+  "stock": 32,
+  "initialItems": 36
+},{
+  "_id": {
+    "$oid": "60d6b6aaeebf1a00a48c4218"
+  },
+  "name": "Hurley Men's One and Only Textured Short Sleeve Button Up",
+  "image": "uimage-1626837691275.jpg",
+  "description": "Hurley Men's One and Only Textured Short Sleeve Button Up",
+  "category": "mens",
+  "price": 44,
+  "rating": "4.4",
+  "__v": 0,
+  "stock": 34,
+  "initialItems": 45
+},{
+  "_id": {
+    "$oid": "60d6b725eebf1a00a48c421a"
+  },
+  "name": "Men's Regular-fit Short-Sleeve Print Shirt",
+  "image": "uimage-1626837809847.jpg",
+  "description": "Essentials Men's Regular-fit Short-Sleeve Print Shirt",
+  "category": "mens",
+  "price": 45,
+  "rating": "3.9",
+  "__v": 0,
+  "stock": 43,
+  "initialItems": 50
+},{
+  "_id": {
+    "$oid": "60d6b7d9eebf1a00a48c421b"
+  },
+  "name": "Girls' Denim Jacket",
+  "image": "uimage-1626837890871.jpg",
+  "description": "Simple Joys by Carter's Baby and Toddler Girls' Denim Jacket",
+  "category": "womens",
+  "price": 69,
+  "rating": "4.6",
+  "__v": 0,
+  "stock": 42,
+  "initialItems": 70
+},{
+  "_id": {
+    "$oid": "60d6b81aeebf1a00a48c421c"
+  },
+  "name": "Aarika Kid Girls Dress",
+  "image": "uimage-1626838369159.jpg",
+  "description": "Coral embroidered woven fit and flare dress, has a round neck, short sleeves, zip closure, and flared hem",
+  "category": "kids",
+  "price": 35,
+  "rating": "4.6",
+  "__v": 0,
+  "stock": 43,
+  "initialItems": 50
+},{
+  "_id": {
+    "$oid": "60f6c756c94dc92238091a67"
+  },
+  "name": "Vishudh2",
+  "image": "uimage-1626806546209.jpg",
+  "description": "Navy Blue and red printed woven maxi dress, has a round neck, short sleeves,",
+  "category": "womens",
+  "price": 45,
+  "rating": "4.2",
+  "stock": 54,
+  "initialItems": 78,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6c9f436f21d29ecd478c6"
+  },
+  "name": "Vishudh L Dress",
+  "image": "uimage-1626837765929.jpg",
+  "description": "Navy Blue and red printed woven maxi dress, has a round neck, short sleeves,",
+  "category": "womens",
+  "price": 45,
+  "rating": "4.2",
+  "stock": 15,
+  "initialItems": 15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6ec401b897a3ab0b5efaa"
+  },
+  "name": "Women Black Solid Regular Fit Parallel Trousers",
+  "image": "uimage-1626837754159.jpg",
+  "description": "A pair of black solid woven parallel trousers, has a partially elasticated waistband, button closure, zip fly, two pockets",
+  "category": "womens",
+  "price": 45,
+  "rating": "4.0",
+  "stock": 50,
+  "initialItems": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f70123b38f3f3f787821ba"
+  },
+  "name": "Signature by Levi",
+  "image": "image-1626800419421.jpg",
+  "description": "Signature by Levi Strauss & Co. Gold Label Men's Relaxed Fit Flex Jeans",
+  "category": "mens",
+  "price": 24,
+  "rating": "4.5",
+  "stock": 27,
+  "initialItems": 28,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f7019fb38f3f3f787821bf"
+  },
+  "name": "Levi's Men's 517 Bootcut Jean",
+  "image": "image-1626800543481.jpg",
+  "description": "Levi's Men's 517 Bootcut Jean 100% coton",
+  "category": "mens",
+  "price": 49,
+  "rating": "4.2",
+  "stock": 45,
+  "initialItems": 45,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f7023db38f3f3f787821c3"
+  },
+  "name": "Under Armour Men's Tech 2.0 T-Shirt",
+  "image": "image-1626800701481.jpg",
+  "description": "Under Armour Men's Tech 2.0 T-Shirt Cotton Mix ",
+  "category": "mens",
+  "price": 34,
+  "rating": "4.2",
+  "stock": 50,
+  "initialItems": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f702c3b38f3f3f787821cb"
+  },
+  "name": "IZOD Men's Saltwater",
+  "image": "image-1626800835270.jpg",
+  "description": "IZOD Men's Saltwater Short Sleeve Solid T-Shirt with Pocket 4.6 out of 5 stars 1,535",
+  "category": "mens",
+  "price": 54,
+  "rating": "4.6",
+  "stock": 30,
+  "initialItems": 30,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f7032eb38f3f3f787821cf"
+  },
+  "name": "Lucky Brand Men's 221 Straight Jean",
+  "image": "image-1626800942178.jpg",
+  "description": "Lucky Brand Men's 221 Straight Jean 92% Cotton, 6% Polyester, 2% Elastane Imported Machine Wash Inseam: available in 30\", 32\" and 34\" FIT: Mid-rise, straight fit with a straight leg",
+  "category": "mens",
+  "price": 5,
+  "rating": "3.9",
+  "stock": 60,
+  "initialItems": 60,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f703ceb38f3f3f787821d4"
+  },
+  "name": "Dickies Men's Heavyweight Crew",
+  "image": "image-1626801102754.jpg",
+  "description": "Dickies Men's Heavyweight Crew Neck Short Sleeve Tee",
+  "category": "mens",
+  "price": 36,
+  "rating": "4.6",
+  "stock": 41,
+  "initialItems": 30,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f7041ab38f3f3f787821d9"
+  },
+  "name": "Hurley Men's Premium Icon",
+  "image": "image-1626801178622.jpg",
+  "description": "Hurley Men's Premium Icon Slash Graphic Short Sleeve Tee Shirt",
+  "category": "mens",
+  "price": 34,
+  "rating": "4.5",
+  "stock": 36,
+  "initialItems": 46,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f704d0b38f3f3f787821e2"
+  },
+  "name": "JOGAL Men's Casual Short Sleeve Hawaiian Shirt",
+  "image": "image-1626801360328.jpg",
+  "description": "JOGAL Men's Flower Casual Button Down Short Sleeve Hawaiian Shirt",
+  "category": "mens",
+  "price": 56,
+  "rating": "4.5",
+  "stock": 43,
+  "initialItems": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f7053db38f3f3f787821e7"
+  },
+  "name": "Polarized Sunglasses for Men and Women",
+  "image": "image-1626801469731.jpg",
+  "description": "Polarized Sunglasses for Men and Women Matte Finish Sun glasses Color Mirror Lens 100% UV Blocking (3 Pack)",
+  "category": "living",
+  "price": 19,
+  "rating": "4",
+  "stock": 76,
+  "initialItems": 80,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f705a1b38f3f3f787821ec"
+  },
+  "name": "Fossil Men's Copeland Stainless Steel",
+  "image": "image-1626801569313.jpg",
+  "description": "Fossil Men's Copeland Stainless Steel Quartz Watch with Leather Strap",
+  "category": "mens",
+  "price": 98,
+  "rating": "4.6",
+  "stock": 65,
+  "initialItems": 70,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f705e3b38f3f3f787821f0"
+  },
+  "name": "Buffway Slim Minimalist Front Pocket",
+  "image": "image-1626801635241.jpg",
+  "description": "Buffway Slim Minimalist Front Pocket RFID Blocking Leather Wallets for Men Women 4.6 out of 5 stars 55,433",
+  "category": "living",
+  "price": 18,
+  "rating": "3.89",
+  "stock": 110,
+  "initialItems": 120,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f70647b38f3f3f787821f6"
+  },
+  "name": "adidas Men's Superlite Cap",
+  "image": "image-1626801735623.jpg",
+  "description": "adidas Men's Superlite Cap Cotton Resizable",
+  "category": "sports",
+  "price": 30,
+  "rating": "3.9",
+  "stock": 103,
+  "initialItems": 106,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f706bbb38f3f3f787821fd"
+  },
+  "name": "Timex Men's Expedition Scout 40mm Watch",
+  "image": "image-1626801851574.jpg",
+  "description": "Timex Men's Expedition Scout 40mm Watch",
+  "category": "living",
+  "price": 78,
+  "rating": "5.4",
+  "stock": 54,
+  "initialItems": 56,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f7072ab38f3f3f78782205"
+  },
+  "name": "ASICS Women's Gel-Venture 7 Running living",
+  "image": "image-1626801962465.jpg",
+  "description": "ASICS Women's Gel-Venture 7 Running living By ASICS",
+  "category": "sports",
+  "price": 60,
+  "rating": "4.6",
+  "stock": 46,
+  "initialItems": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f7c3e3473ea44f1cc4b012"
+  },
+  "name": "Ed-a-Mamma",
+  "image": "image-1626850275287.jpg",
+  "description": "Medium light fade blue jeans Regular fit, mid-rise Clean look Non stretchable 5 pocket Length: regular",
+  "category": "kids",
+  "price": 45,
+  "rating": "4.2",
+  "stock": 25,
+  "initialItems": 35,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f7c484473ea44f1cc4b026"
+  },
+  "name": "GAP",
+  "image": "image-1626850436232.webp",
+  "description": "Medium light fade black jeans Regular fit, mid-rise Clean look Non stretchable 5 pocket Length: regular",
+  "category": "mens",
+  "price": 49,
+  "rating": "4.3",
+  "stock": 10,
+  "initialItems": 30,
+  "__v": 0
+}]

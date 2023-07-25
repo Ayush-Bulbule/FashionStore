@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "60f43df978e62746c42108cd"
+  },
+  "role": "customer",
+  "name": "Jack Jonas",
+  "email": "jack@gmail.com",
+  "password": "$2b$10$yfgcwq11LfM9hFSox00M8.7.gf4wfCPMIEeMDH/7kU6xJSX7rT.ae",
+  "address": "New York",
+  "createdAt": {
+    "$date": "2021-07-18T14:43:05.745Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-18T14:43:05.745Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f671c92acd8d368081413e"
+  },
+  "role": "admin",
+  "name": "Admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$i0Sw/R6u4u7Gp/wdnshd0ukTg23XRlBEa.1dhb2qS62BfE5Y5ofhG",
+  "address": "Admin House",
+  "createdAt": {
+    "$date": "2021-07-20T06:48:41.315Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-20T06:48:41.315Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f7cc84bf099b4140ab4226"
+  },
+  "role": "customer",
+  "name": "James Fark",
+  "email": "james@gmail.com",
+  "password": "$2b$10$olo6nBq19C8yaS15j1Spde/tpctjVBri4R4/4CpmaUJjI1/bCCnNa",
+  "address": "Street No1, NewYork",
+  "createdAt": {
+    "$date": "2021-07-21T07:28:04.698Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-21T07:28:04.698Z"
+  },
+  "__v": 0
+}]

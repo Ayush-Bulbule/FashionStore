@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "60f7cd22bf099b4140ab422e"
+  },
+  "items": [
+    {
+      "item": {
+        "_id": "60d6b529eebf1a00a48c4211",
+        "name": "Skagen Women's Stainless Steel Watch",
+        "image": "uimage-1626837478394.jpg",
+        "description": "Skagen Women's RIIS Quartz Analog Stainless Steel Watch",
+        "category": "watches",
+        "price": 109,
+        "rating": "4.5",
+        "stock": 53,
+        "initialItems": 67
+      },
+      "qty": 4
+    }
+  ],
+  "address": "Street No1, NewYork",
+  "status": "delivered",
+  "customerId": "60f7cc84bf099b4140ab4226",
+  "createdAt": {
+    "$date": "2021-07-12T07:30:42.817Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-21T08:25:34.258Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f7cd66bf099b4140ab423e"
+  },
+  "items": [
+    {
+      "item": {
+        "_id": "60f70123b38f3f3f787821ba",
+        "name": "Signature by Levi",
+        "image": "image-1626800419421.jpg",
+        "description": "Signature by Levi Strauss & Co. Gold Label Men's Relaxed Fit Flex Jeans",
+        "category": "mens",
+        "price": 24,
+        "rating": "4.5",
+        "stock": 28,
+        "initialItems": 28
+      },
+      "qty": 1
+    },
+    {
+      "item": {
+        "_id": "60f7041ab38f3f3f787821d9",
+        "name": "Hurley Men's Premium Icon",
+        "image": "image-1626801178622.jpg",
+        "description": "Hurley Men's Premium Icon Slash Graphic Short Sleeve Tee Shirt",
+        "category": "mens",
+        "price": 34,
+        "rating": "4.5",
+        "stock": 42,
+        "initialItems": 46
+      },
+      "qty": 6
+    },
+    {
+      "item": {
+        "_id": "60f704d0b38f3f3f787821e2",
+        "name": "JOGAL Men's Casual Short Sleeve Hawaiian Shirt",
+        "image": "image-1626801360328.jpg",
+        "description": "JOGAL Men's Flower Casual Button Down Short Sleeve Hawaiian Shirt",
+        "category": "mens",
+        "price": 56,
+        "rating": "4.5",
+        "stock": 45,
+        "initialItems": 50
+      },
+      "qty": 2
+    },
+    {
+      "item": {
+        "_id": "60f7c484473ea44f1cc4b026",
+        "name": "GAP",
+        "image": "image-1626850436232.webp",
+        "description": "Medium light fade black jeans Regular fit, mid-rise Clean look Non stretchable 5 pocket Length: regular",
+        "category": "mens",
+        "price": 49,
+        "rating": "4.3",
+        "stock": 12,
+        "initialItems": 30
+      },
+      "qty": 2
+    }
+  ],
+  "address": "Street No1, NewYork",
+  "status": "transit",
+  "customerId": "60f7cc84bf099b4140ab4226",
+  "createdAt": {
+    "$date": "2021-07-13T07:31:50.878Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-21T08:25:29.436Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f7d959a9bb0441a840ad05"
+  },
+  "items": [
+    {
+      "item": {
+        "_id": "60f7072ab38f3f3f78782205",
+        "name": "ASICS Women's Gel-Venture 7 Running living",
+        "image": "image-1626801962465.jpg",
+        "description": "ASICS Women's Gel-Venture 7 Running living By ASICS",
+        "category": "sports",
+        "price": 60,
+        "rating": "4.6",
+        "stock": 49,
+        "initialItems": 50
+      },
+      "qty": 3
+    }
+  ],
+  "address": "New York",
+  "status": "shipped",
+  "customerId": "60f43df978e62746c42108cd",
+  "createdAt": {
+    "$date": "2021-07-21T08:22:49.381Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-21T08:25:26.994Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f7d977a9bb0441a840ad0e"
+  },
+  "items": [
+    {
+      "item": {
+        "_id": "60f703ceb38f3f3f787821d4",
+        "name": "Dickies Men's Heavyweight Crew",
+        "image": "image-1626801102754.jpg",
+        "description": "Dickies Men's Heavyweight Crew Neck Short Sleeve Tee",
+        "category": "mens",
+        "price": 36,
+        "rating": "4.6",
+        "stock": 43,
+        "initialItems": 30
+      },
+      "qty": 2
+    }
+  ],
+  "address": "New York",
+  "status": "processing",
+  "customerId": "60f43df978e62746c42108cd",
+  "createdAt": {
+    "$date": "2021-07-21T08:23:19.395Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-21T08:23:19.395Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f91e44dbe243211c9ff7cf"
+  },
+  "items": [
+    {
+      "item": {
+        "_id": "60d6b5bdeebf1a00a48c4214",
+        "name": "Fossil Men's Grant",
+        "image": "uimage-1626837640784.jpg",
+        "description": "Fossil Men's Grant Stainless Steel Quartz Chronograph Watch",
+        "category": "watches",
+        "price": 34,
+        "rating": "4.5",
+        "stock": 56,
+        "initialItems": 67
+      },
+      "qty": 4
+    }
+  ],
+  "address": "New York",
+  "status": "processing",
+  "customerId": "60f43df978e62746c42108cd",
+  "createdAt": {
+    "$date": "2021-07-22T07:29:08.987Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-22T07:29:08.987Z"
+  },
+  "__v": 0
+}]
