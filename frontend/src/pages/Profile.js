@@ -16,7 +16,7 @@ const Profile = () => {
 
     return (
         <div className="container-fluid box" style={{ backgroundColor: "#f5f5f6" }}>
-            <div className="row py-4 d-flex align-items-center justify-content-center">
+            <div className="row py-4 d-flex pt-70 align-items-center justify-content-center">
                 <div className="col-lg-8 col-md-10 col-12 shadow-sm rounded p-sm-4 " style={{ backgroundColor: "#fff" }}>
                     <div className="row">
                         <div className="col-md-6 col-12">

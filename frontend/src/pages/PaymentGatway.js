@@ -16,7 +16,7 @@ const PaymentGatway = () => {
     }, [])
     return (
 
-        <div className="container box py-4 d-flex flex-column align-items-center justify-content-lg-center">
+        <div className="container box py-4 pt-70  d-flex flex-column align-items-center justify-content-lg-center">
             <img src="/images/payment.svg" alt="" className="img-fluid w-50 mx-auto" />
             <h6>Payment Processing... </h6>
             <div className="loader d-flex">

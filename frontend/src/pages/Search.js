@@ -39,7 +39,7 @@ const Search = () => {
     }, [])
 
     return (
-        <div className="container py-4 box">
+        <div className="min-vh-100 container py-4 pt-70 box">
             <h4 className="fw-bold text-center text-capitalize p-2">Search Results for "{query}"</h4>
             <div className="row">
                 {products ?

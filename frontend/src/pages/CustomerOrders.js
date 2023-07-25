@@ -42,7 +42,7 @@ const CustomerOrders = () => {
     }, [user])
 
     return (
-        <div className=" box container mt-3">
+        <div className=" box container mt-3 pt-70 min-vh-100">
             <h5>My Orders</h5>
             <table className="table">
                 <thead>

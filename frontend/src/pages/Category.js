@@ -33,7 +33,7 @@ const Category = () => {
     }, [cat])
 
     return (
-        <div className="container py-4">
+        <div className="container py-4 pt-70 min-vh-100">
             <h4 className="fw-bold text-center text-capitalize p-2">{cat} collection</h4>
 
             <div className="row">

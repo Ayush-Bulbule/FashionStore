@@ -19,7 +19,7 @@ const Navbar = () => {
     return (
 
         <div>
-            <header className="p-3 bg-transparent text-dark shadow-b-sm" id="navbar" style={{ backgroundColor: "#fff", }}>
+            <header className="p-3 bg-light fixed-top text-dark shadow-b-sm" id="navbar" >
                 <div className="px-4">
                     <div className="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
                         <Link to="/" className="navbar-brand text-dark fw-bold display-5 d-flex align-items-center justify-content-center" href="#">

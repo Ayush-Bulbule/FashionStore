@@ -140,7 +140,7 @@ const CustomerCart = () => {
     return (
         products ? (
             (products.length > 0) ?
-                <div className="container box py-4">
+                <div className="container min-vh-100 pt-70 box py-4 pt-5">
                     <h5 className="fw-bold">Cart Items</h5>
                     <ul>
                         {

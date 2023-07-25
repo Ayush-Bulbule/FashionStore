@@ -85,7 +85,7 @@ const TrackOrder = () => {
     }, [state, order])
 
     return (
-        <div className="container box py-3 d-flex flex-column align-items-center">
+        <div className="container pt-70 box py-3 d-flex flex-column align-items-center">
             <div className="d-flex justify-content-around w-100">
                 <p className="orderid">{order ? order._id : "Loading"}</p>
                 <p className="updatedat">{order ? moment(order.updatedAt).format('hh:mm A DD/MM') : "loading"}</p>

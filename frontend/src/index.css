@@ -18,12 +18,14 @@ li {
 .container,
 .container-fluid {
   /* min-height: 75vh; */
+  margin-top: 80!important;
 }
-
+.pt-70{padding-top: 80px !important;}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
 
 #navbar {
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16);

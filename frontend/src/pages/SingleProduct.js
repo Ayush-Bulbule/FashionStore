@@ -55,7 +55,7 @@ const Products = () => {
     }, [])
 
     return (
-        <div className="container box">
+        <div className="container pt-70 box">
             <button className="my-4 back-btn" onClick={() => { history.goBack() }}><FaArrowLeft /> <span className="ms-2">Back</span></button>
             {products ?
                 <div className="row mt-3 mb-5">
