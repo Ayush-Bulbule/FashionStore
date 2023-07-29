@@ -14,7 +14,7 @@ const Login = () => {
     const loginUser = async (e) => {
         e.preventDefault();
 
-        const res = await fetch('/login', {
+        const res = await fetch(`${process.env.REACT_APP_API_KEY}/login`, {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"

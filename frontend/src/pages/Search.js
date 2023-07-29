@@ -14,7 +14,7 @@ const Search = () => {
 
     const searchProduct = async () => {
         console.log(query)
-        const res = await fetch('/search', {
+        const res = await fetch(`${process.env.REACT_APP_API_KEY}/search`, {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"

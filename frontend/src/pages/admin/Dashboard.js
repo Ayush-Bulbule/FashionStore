@@ -14,7 +14,7 @@ const Dashboard = () => {
 
     const getStats = async () => {
         console.log(filter)
-        const res = await fetch('/admin/stats', {
+        const res = await fetch(`${process.env.REACT_APP_API_KEY}/admin/stats`, {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"

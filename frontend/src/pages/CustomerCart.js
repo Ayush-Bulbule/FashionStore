@@ -21,7 +21,7 @@ const CustomerCart = () => {
         }
         console.log(JSON.stringify({ ids: Object.keys(cart.items) }))
 
-        const response = await fetch(`/api/cart-items `, {
+        const response = await fetch(`${process.env.REACT_APP_API_KEY}/api/cart-items `, {
             method: "POST",
             headers: {
                 'Content-Type': 'application/json'

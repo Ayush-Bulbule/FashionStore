@@ -12,7 +12,7 @@ const Category = () => {
 
 
     const getProducts = async () => {
-        const response = await fetch(`/products/${cat}`, {
+        const response = await fetch(`${process.env.REACT_APP_API_KEY}/products/${cat}`, {
             method: "GET",
             headers: {
                 'Content-Type': 'application/json'

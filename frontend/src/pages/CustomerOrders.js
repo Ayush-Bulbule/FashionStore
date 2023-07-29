@@ -16,7 +16,7 @@ const CustomerOrders = () => {
             console.log("No User")
             return
         }
-        const response = await fetch(`/get-order`, {
+        const response = await fetch(`${process.env.REACT_APP_API_KEY}/get-order`, {
             method: "POST",
             headers: {
                 'Content-Type': 'application/json'

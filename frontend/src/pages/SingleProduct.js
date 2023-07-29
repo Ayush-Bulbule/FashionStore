@@ -13,7 +13,7 @@ const Products = () => {
     const history = useHistory();
 
     const getProduct = async () => {
-        const response = await fetch(`/api/product/${param._id}`, {
+        const response = await fetch(`${process.env.REACT_APP_API_KEY}/api/product/${param._id}`, {
             method: "GET",
             headers: {
                 'Content-Type': 'application/json'

@@ -6,8 +6,10 @@ const path = require('path')
 const mongoose = require('mongoose')
 const bodyParser = require('body-parser')
 const jwt = require('jsonwebtoken')
+const cors = require('cors')
 
 
+app.use(cors())
 
 const PORT = process.env.PORT || 4000
 

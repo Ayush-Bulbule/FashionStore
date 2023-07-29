@@ -9,7 +9,7 @@ const ProductCard = ({ product }) => {
 
             <div className="card product-card h-100">
                 <div className="product-img-box d-flex align-items-center justify-content-center" style={{ height: 210 + "px" }} >
-                    <img src={`http://localhost:4000/${product.image}`} className="product-img img-fluid" alt="ProductImage" style={{ height: 180 + "px" }} />
+                    <img src={`http://localhost:4000${process.env.REACT_APP_API_KEY}/product.image}`} className="product-img img-fluid" alt="ProductImage" style={{ height: 180 + "px" }} />
                 </div>
                 <div className="card-body product-info">
                     <h3 className="card-title">

@@ -9,7 +9,7 @@ const Orders = () => {
     const [render, setRender] = useState(false)
 
     const getOrders = async () => {
-        const response = await fetch(`/admin-orders`, {
+        const response = await fetch(`${process.env.REACT_APP_API_KEY}/admin-orders`, {
             method: "GET",
             headers: {
                 'Content-Type': 'application/json'

@@ -17,7 +17,7 @@ const TrackOrder = () => {
             console.log("No User")
             return
         }
-        const response = await fetch(`/getSingleOrder`, {
+        const response = await fetch(`${process.env.REACT_APP_API_KEY}/getSingleOrder`, {
             method: "POST",
             headers: {
                 'Content-Type': 'application/json'

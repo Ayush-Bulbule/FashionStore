@@ -16,7 +16,7 @@ const Manage = () => {
     })
 
     const getProducts = async () => {
-        const response = await fetch('/api', {
+        const response = await fetch(`${process.env.REACT_APP_API_KEY}/api`, {
             method: "GET",
             headers: {
                 'Content-Type': 'application/json'

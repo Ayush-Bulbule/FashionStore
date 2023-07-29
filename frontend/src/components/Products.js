@@ -6,9 +6,10 @@ const Products = () => {
     // const { name } = useContext(CartContext) 
 
     const [products, setProducts] = useState(null);
+    console.log(`${process.env.REACT_APP_API_KEY}/api`);
 
     const getProducts = async () => {
-        const response = await fetch('/api', {
+        const response = await fetch(`${process.env.REACT_APP_API_KEY}/api`, {
             method: "GET",
             headers: {
                 'Content-Type': 'application/json'
