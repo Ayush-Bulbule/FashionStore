@@ -20,7 +20,13 @@ li {
 .container,
 .container-fluid {
   /* min-height: 75vh; */
+<<<<<<< HEAD
   margin-top: 80 !important;
+=======
+  margin-top: 80!important;
+  min-height: 100vh;
+
+>>>>>>> 606c53e03c2690ca8a5df8c58a8e6866daa07236
 }
 
 .pt-70 {
@@ -30,6 +36,9 @@ li {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+.h-80 {
+  height: 80vh;
 }
 
 .h-80 {
