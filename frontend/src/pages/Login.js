@@ -51,11 +51,7 @@ const Login = () => {
     }, [])
 
     return (
-<<<<<<< HEAD
-        <div className="container-fluid h-80 box pt-5" style={{ backgroundColor: "#f5f5f6" }}>
-=======
         <div className="container-fluid  h-80 box pt-5" style={{ backgroundColor: "#f5f5f6" }}>
->>>>>>> 606c53e03c2690ca8a5df8c58a8e6866daa07236
             <div className="row py-4 d-flex align-items-center justify-content-center">
                 <div className="col-lg-8 col-md-10 col-12 shadow-sm rounded p-sm-4 " style={{ backgroundColor: "#fff" }}>
                     <div className="row">
