@@ -350,7 +350,8 @@ code {
 }
 
 .box {
-  min-height: 70vh;
+  margin-top: 10vh;
+  min-height: 85vh;
 }
 .form-control:focus,
 .form-select:focus {
