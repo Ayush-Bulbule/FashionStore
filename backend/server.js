@@ -11,6 +11,19 @@ const cors = require('cors')
 
 app.use(cors())
 
+const allowedOrigins = ['https://fashion-store-drab.vercel.app'];
+const corsOptions = {
+    origin: function (origin, callback) {
+        if (allowedOrigins.includes(origin) || !origin) {
+            callback(null, true);
+        } else {
+            callback(new Error('Not allowed by CORS'));
+        }
+    },
+};
+
+app.use(cors(corsOptions));
+
 const PORT = process.env.PORT || 4000
 
 //Database connection
