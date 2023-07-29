@@ -19,6 +19,8 @@ li {
 .container-fluid {
   /* min-height: 75vh; */
   margin-top: 80!important;
+  min-height: 100vh;
+
 }
 .pt-70{padding-top: 80px !important;}
 code {
