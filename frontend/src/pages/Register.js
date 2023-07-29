@@ -13,10 +13,11 @@ const Register = () => {
         }
     )
 
-    let name, value;
+    let name, value, repeatPassword;
     const handleInputs = (e) => {
         name = e.target.name;
         value = e.target.value;
+        repeatPassword = e.target.repeatPassword;
         setUser({
             ...user, [name]: value
         })
@@ -75,7 +76,7 @@ const Register = () => {
                                 </div>
                                 <div className="mt-3 auth-input">
                                     <FaUserLock style={{ color: "#757575" }} />
-                                    <input type="text" className='w-full' name="password" id="inpname" placeholder="Confirm Password**" value={user.password} onChange={handleInputs} />
+                                    <input type="text" className='w-full' name="repeatPassword" id="repeatPassword" placeholder="Confirm Password**" value={user.password} onChange={handleInputs} />
                                 </div>
                                 <button className="btn-login-form btn-style btn-register-form" onClick={registerUser}>Register</button>
                             </form>

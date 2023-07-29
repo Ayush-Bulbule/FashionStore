@@ -102,7 +102,7 @@ const CustomerCart = () => {
         console.log(newProduct)
 
 
-        const res = await fetch('/store-order', {
+        const res = await fetch(`${process.env.REACT_APP_API_KEY}/store-order`, {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
@@ -150,7 +150,7 @@ const CustomerCart = () => {
                                         <div className="row mx-5 d-flex align-items-center justify-content-between py-3">
                                             <div className="col-6 d-flex align-items-center">
                                                 <div className="product-img-box d-flex align-items-center justify-content-center" style={{ height: 100 + "px" }} >
-                                                    <img src={`http://localhost:4000/${product.image}`} className="product-img img-fluid" alt="ProductImage" style={{ height: 100 + "px" }} />
+                                                    <img src={`${process.env.REACT_APP_API_KEY}/${product.image}`} className="product-img img-fluid" alt="ProductImage" style={{ height: 100 + "px" }} />
                                                 </div>
                                                 <div className="cart-ctext ps-3">
                                                     <p>{product.name}</p>
