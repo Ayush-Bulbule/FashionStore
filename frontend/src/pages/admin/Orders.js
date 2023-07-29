@@ -76,7 +76,7 @@ const Orders = () => {
                                         <td className="border px-4 py-2 text-left">
                                             <p>{order._id}</p>
                                         </td>
-                                        <td className="border px-4 py-2 text-left">{order.customerId.email}</td>
+                                        <td className="border px-4 py-2 text-left">{order.customerId}</td>
                                         <td className="border px-4 py-2 text-left">{order.address}</td>
                                         <td className="border px-4 py-2 text-left">
                                             <div className="inline-block relative w-64">
