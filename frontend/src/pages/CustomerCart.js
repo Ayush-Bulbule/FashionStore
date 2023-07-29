@@ -99,7 +99,7 @@ const CustomerCart = () => {
                 qty: getQty(element._id)
             })
         });
-        console.log(newProduct)
+        console.log(proceess.env.REACT_APP_API_KEY)
 
 
         const res = await fetch(`${process.env.REACT_APP_API_KEY}/store-order`, {
