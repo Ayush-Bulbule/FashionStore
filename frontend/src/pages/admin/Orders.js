@@ -62,7 +62,7 @@ const Orders = () => {
                     <thead>
                         <tr>
                             <th className="border px-4 py-2 text-left">Orders</th>
-                            {/* <th className="border px-4 py-2 text-left">Customer</th> */}
+                            <th className="border px-4 py-2 text-left">Customer</th>
                             <th className="border px-4 py-2 text-left">Address</th>
                             <th className="border px-4 py-2 text-left">Status</th>
                             <th className="border px-4 py-2 text-left">Placed at</th>
@@ -76,7 +76,7 @@ const Orders = () => {
                                         <td className="border px-4 py-2 text-left">
                                             <p>{order._id}</p>
                                         </td>
-                                        {/* <td className="border px-4 py-2 text-left">{order.customerId.email}</td> */}
+                                        <td className="border px-4 py-2 text-left">{order.customerId.email}</td>
                                         <td className="border px-4 py-2 text-left">{order.address}</td>
                                         <td className="border px-4 py-2 text-left">
                                             <div className="inline-block relative w-64">
