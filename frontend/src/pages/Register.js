@@ -71,11 +71,11 @@ const Register = () => {
                                 </div>
                                 <div className="mt-3 auth-input">
                                     <FaLock style={{ color: "#757575" }} />
-                                    <input type="text" className='w-full' name="password" id="inpname" placeholder="Password**" value={user.password} onChange={handleInputs} />
+                                    <input type="password" className='w-full' name="password" id="inpname" placeholder="Password**" value={user.password} onChange={handleInputs} />
                                 </div>
                                 <div className="mt-3 auth-input">
                                     <FaUserLock style={{ color: "#757575" }} />
-                                    <input type="text" className='w-full' name="password" id="inpname" placeholder="Confirm Password**" value={user.password} onChange={handleInputs} />
+                                    <input type="password" className='w-full' name="password" id="inpname" placeholder="Confirm Password**" value={user.password} onChange={handleInputs} />
                                 </div>
                                 <button className="btn-login-form btn-style btn-register-form" onClick={registerUser}>Register</button>
                             </form>
