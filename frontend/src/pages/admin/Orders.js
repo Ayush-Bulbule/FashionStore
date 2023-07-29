@@ -31,7 +31,7 @@ const Orders = () => {
         console.log(orderId, status)
 
 
-        const res = await fetch('/updateOrderStat', {
+        const res = await fetch(`${process.env.REACT_APP_API_KEY}/updateOrderStat`, {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
@@ -57,12 +57,12 @@ const Orders = () => {
     return (
         <div className="container box mt-4">
             <h5>Customer Orders</h5>
-            <div className="order-section">
+            <div className="order-section box">
                 <table className="table">
                     <thead>
                         <tr>
                             <th className="border px-4 py-2 text-left">Orders</th>
-                            <th className="border px-4 py-2 text-left">Customer</th>
+                            {/* <th className="border px-4 py-2 text-left">Customer</th> */}
                             <th className="border px-4 py-2 text-left">Address</th>
                             <th className="border px-4 py-2 text-left">Status</th>
                             <th className="border px-4 py-2 text-left">Placed at</th>
@@ -76,7 +76,7 @@ const Orders = () => {
                                         <td className="border px-4 py-2 text-left">
                                             <p>{order._id}</p>
                                         </td>
-                                        <td className="border px-4 py-2 text-left">{order.customerId.email}</td>
+                                        {/* <td className="border px-4 py-2 text-left">{order.customerId.email}</td> */}
                                         <td className="border px-4 py-2 text-left">{order.address}</td>
                                         <td className="border px-4 py-2 text-left">
                                             <div className="inline-block relative w-64">
