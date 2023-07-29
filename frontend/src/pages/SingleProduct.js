@@ -60,7 +60,7 @@ const Products = () => {
             {products ?
                 <div className="row mt-3 mb-5">
                     <div className="col-lg-4 col-md-4 col-sm-6 p-3">
-                        <img src={`http://localhost:4000/${products[0].image}`} alt="" className="img-fluid px-5" />
+                        <img src={`${process.env.REACT_APP_API_KEY}/${products[0].image}`} alt="product-image" className="img-fluid px-5" />
                     </div>
                     <div className="col-lg-6 col-md-6 col-12 me-auto">
                         <h2 className="fw-bold">{products[0].name}</h2>

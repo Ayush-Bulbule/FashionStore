@@ -20,7 +20,7 @@ const Profile = () => {
                 <div className="col-lg-8 col-md-10 col-12 shadow-sm rounded p-sm-4 " style={{ backgroundColor: "#fff" }}>
                     <div className="row">
                         <div className="col-md-6 col-12">
-                            <img src="/images/personal-info.png" className="img-fluid" alt="" />
+                            <img src="/images/personal-info.png" className="img-fluid" alt="profile" />
                         </div>
                         <div className="col-md-6 col-12 py-2 p-4">
                             <h4>Your Profile</h4>

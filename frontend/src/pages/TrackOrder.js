@@ -90,7 +90,7 @@ const TrackOrder = () => {
                 <p className="orderid">{order ? order._id : "Loading"}</p>
                 <p className="updatedat">{order ? moment(order.updatedAt).format('hh:mm A DD/MM') : "loading"}</p>
             </div>
-            <img src={image} alt="" className="w-50 h-50" />
+            <img src={image} alt="track-image" className="w-50 h-50" />
             <p className="text-capitalize fw-bold">{order ? order.status : "Loading"}</p>
             <br /><br />
             <ul className="list-unstyled multi-steps">

@@ -190,7 +190,7 @@ const CustomerCart = () => {
                 </div >
                 :
                 <div className="container py-4 d-flex flex-column align-items-center justify-content-lg-center">
-                    <img src="/images/cart.png" alt="" className="img-fluid w-50 mx-auto" />
+                    <img src="/images/cart.png" alt="empty-cart" className="img-fluid w-50 mx-auto" />
                     <h6>Your Cart is Empty! </h6>
                     <Link className="my-4 back-btn" to="/">Back to Home</Link>
                 </div>

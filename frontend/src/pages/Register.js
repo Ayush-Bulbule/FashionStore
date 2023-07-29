@@ -82,7 +82,7 @@ const Register = () => {
                             <Link to="login" className="text-decoration-none pt-4 d-inline-block">Already Have an Account? Login</Link>
                         </div>
                         <div className="col-md-6 col-12">
-                            <img src="/images/register.png" className="img-fluid" alt="" />
+                            <img src="/images/register.png" className="img-fluid" alt="register" />
                         </div>
                     </div>
                 </div>

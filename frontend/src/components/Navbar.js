@@ -23,7 +23,7 @@ const Navbar = () => {
                 <div className="px-4">
                     <div className="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
                         <Link to="/" className="navbar-brand text-dark fw-bold display-5 d-flex align-items-center justify-content-center" href="#">
-                            <img src="/images/logo.jpg" alt="" width="35" height="35" className="d-inline-block align-text-top" />
+                            <img src="/images/logo.jpg" alt="logo" width="35" height="35" className="d-inline-block align-text-top" />
                             FashionStore
                         </Link>
 
