@@ -48,17 +48,17 @@ Tech Stack used to develop FashionStore:
 
 Clone the repo `git clone https://github.com/Ayush-Bulbule/FashionStore/`
 ### Frontend:
-Open Project in Terminal `cd frontend`
-Install Dependencies `npm install --legacy-peer-deps`
-Run frontend `npm run dev`
-Frontend will be running on `localhost:3000`
-Admin is accessible at `localhost:3000/admin/manage`
+1. Open Project in Terminal `cd frontend`
+2. Install Dependencies `npm install --legacy-peer-deps`
+3. Run frontend `npm run dev`
+4. Frontend will be running on `localhost:3000`
+5. Admin is accessible at `localhost:3000/admin/manage`
 
 ### Backend
-Open Project in Terminal `cd backend`
-Install Dependencies `npm insrtall`
-Add Database URL open `server.js` and change mongodb url
-Run Backend `npm run dev`
+1. Open Project in Terminal `cd backend`
+2. Install Dependencies `npm insrtall`
+3. Add Database URL open `server.js` and change mongodb url
+4. Run Backend `npm run dev`
 
 
 
