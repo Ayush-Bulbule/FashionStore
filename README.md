@@ -13,6 +13,7 @@ Customer:
   - Add products to a shopping cart and checkout
   - Check order status
   - Create an account to save their personal data (this is optional for the user in case they decide to purchase anything
+    
 Admin:
   - Add/remove/modify categories of products
   - add/remove/modify products
